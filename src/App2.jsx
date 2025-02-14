@@ -1,4 +1,4 @@
-import ForkCarta from "./forkCarta";
+import ForkCarta from "./ForkCarta";
 
 function App2() {
   return (
